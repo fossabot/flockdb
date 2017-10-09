@@ -1,5 +1,6 @@
-
 # FlockDB
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fflockdb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fflockdb?ref=badge_shield)
+
 
 FlockDB is a distributed graph database for storing adjancency lists, with
 goals of supporting:
@@ -115,3 +116,7 @@ It also shows how to add edges, query them, etc.
 - Robey Pointer @robey
 - John Kalucki @jkalucki
 - Ed Ceaser @asdf
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fflockdb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fflockdb?ref=badge_large)
